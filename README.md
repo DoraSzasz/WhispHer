@@ -45,3 +45,5 @@ The `response.py` Python script manages the core logic for generating responses:
 - **Run and Return**: The PHP script reads the response from the output file and sends it back to the user via Twilio’s WhatsApp API.
 
 This setup enables WhispHer to interact seamlessly on WhatsApp, providing users with general health information while maintaining privacy, sensitivity, and cultural respect.
+
+For more details and updates, visit our [WhispHer AI website](https://www.whispherai.com/).
